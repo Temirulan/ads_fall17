@@ -1,0 +1,12 @@
+10 points. Deadline is 7th week, you need to defense them on practice sessions or office hours.
+List of problems will update.
+
+1. Implement stack without arrays
+2. Implement queue without arrays
+3. Implement deque without arrays
+4. http://informatics.mccme.ru/mod/statements/view.php?id=207
+5. http://informatics.mccme.ru/mod/statements/view3.php?id=207&chapterid=57
+6. http://informatics.mccme.ru/mod/statements/view3.php?id=207&chapterid=60
+7. http://informatics.mccme.ru/mod/statements/view3.php?id=206&chapterid=51
+8. http://informatics.mccme.ru/mod/statements/view3.php?id=192&chapterid=4
+9. http://informatics.mccme.ru/mod/statements/view3.php?id=1121&chapterid=767
