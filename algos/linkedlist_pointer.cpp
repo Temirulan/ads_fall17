@@ -60,7 +60,7 @@ int main () {
         else add(s[i]);
     }
 
-    while (cur->L) cur = cur->L;
+    while (cur->L != NULL) cur = cur->L;
 
     while (true) {
         if (cur->R) {
